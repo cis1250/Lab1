@@ -11,18 +11,15 @@ In this lab, you will:
 
 ## Instructions
 
-1. **Accept the GitHub Classroom assignment**  
-   Your own repository will be created automatically.
-
-2. **Open the `hello.py` file** in your repository.  
+1. **Open the `hello.py` file** in your repository.  
    - Click the pencil ✏️ button in the top-right corner to edit it.
 
-3. **Modify the program**:  
-   - Change it to print your name.  
+2. **Modify the program**:  
+   - Change it to print your name (add a print statement to the code to print your name).  
    - Add one more print statement about your favorite hobby.  
 
-4. **Commit your changes**:  
-   - At the bottom of the page, write a short message (e.g., `Added my name`).  
+3. **Commit your changes**:  
    - Click **Commit changes**.
+   - The **Commit changes** button is in the top-right corner.
 
 
