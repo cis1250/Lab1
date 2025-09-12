@@ -1,5 +1,8 @@
 # Lab 1: Hello World 🌍
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cis1250/Lab1/HEAD?labpath=hello.py)
+
+
 Welcome to your first Python lab!
 
 In this lab, you will:
@@ -21,5 +24,4 @@ In this lab, you will:
 3. **Commit your changes**:  
    - Click **Commit changes**.
    - The **Commit changes** button is in the top-right corner.
-
 
