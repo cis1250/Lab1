@@ -1,14 +1,11 @@
 # Lab 1: Hello World 🌍
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cis1250/Lab1/HEAD?labpath=hello.py)
-
-
 Welcome to your first Python lab!
 
 In this lab, you will:
 - Learn how to edit files directly on GitHub.
 - Make your first commit.
-- Run a simple Python program.
+- Run a simple Python program using **GitHub Codespaces**
 
 ---
 
@@ -24,4 +21,38 @@ In this lab, you will:
 3. **Commit your changes**:  
    - Click **Commit changes**.
    - The **Commit changes** button is in the top-right corner.
+  
+## How to Run Your Code in GitHub Codespaces  
+
+### Step 1 — Open your repository  
+- Go to your assignment repository page on GitHub.  
+
+---
+
+### Step 2 — Start a Codespace  
+1. At the top right, click the **green “Code” button**.  
+2. In the dropdown menu, click **Codespaces**.  
+3. Select **“Create codespace on main”** (or “New codespace”).  
+   - 🔄 This may take 1–2 minutes the first time — GitHub is setting up your environment.  
+
+---
+
+### Step 3 — See the VS Code editor in your browser  
+- A new tab will open.  
+- You’ll see a window that looks like **Visual Studio Code** with a file tree on the left (your repository).  
+
+---
+
+### Step 4 — Open the terminal  
+- Look at the bottom of the screen. You should see a **panel with a terminal**.  
+- If you don’t see it:  
+  - Click the **Menu bar → Terminal → New Terminal**.  
+  - A terminal will open at the bottom of the Codespace window.  
+
+---
+
+### Step 5 — Run your Python program  
+In the terminal, type:  
+```bash
+python hello.py
 
