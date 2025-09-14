@@ -8,3 +8,4 @@
 
 print("Hello, world!")
 print("I am working on Lab1!")
+print("I like tennis")
