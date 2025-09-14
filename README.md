@@ -19,8 +19,8 @@ In this lab, you will:
    - Add one more print statement about your favorite hobby.  
 
 3. **Commit your changes**:  
-   - Click **Commit changes**.
-   - The **Commit changes** button is in the top-right corner.
+   - Click **Commit changes**. 
+   - Note: The **Commit changes** button is the green button in the top-right corner.
   
 ## How to Run Your Code in GitHub Codespaces  
 
